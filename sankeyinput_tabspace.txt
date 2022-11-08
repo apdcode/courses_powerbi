@@ -1,0 +1,7 @@
+Level1	Value1	Notes1	Level2	Value2	Notes2	Level3
+Product 1	10	 	Region 1	5	Audit, loss = 5	Country A
+Product 1	10	 	Region 2	10	 	Country A
+Product 2	20	 	Region 3	20	 	Country B
+Product 3	5	 	Region 1	5	Audit, low numbers	Country A
+Product 4	20	High productivity	Region 2	20	No loss	Country B
+Product 1	5	 	Region 3	5	 	Country B
