@@ -15,6 +15,8 @@
 
 *Creates a union (join) table from a pair of tables.*
 
-### EVALUATE
+### [EVALUATE](https://dax.guide/st/evaluate/)
 
-*Used in DAX Studio to enclose evaluate expressions such as `UNION`
+*Used in DAX Studio to enclose evaluate expressions such as `UNION`*
+
+EVALUATE is a DAX statement that is needed to execute a query. EVALUATE followed by any table expression returns the result of the table expression. Moreover, one or more EVALUATE statements can be preceded by special definitions like local tables, columns, measures, and variables that have the scope of the entire batch of EVALUATE statements executed together.
